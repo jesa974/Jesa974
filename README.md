@@ -11,7 +11,9 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
 - 🔭 I’m currently working on school project
 - 🌱 I’m currently learning data science
 
-
+## This week activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## My code skills 
 

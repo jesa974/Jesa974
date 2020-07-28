@@ -33,6 +33,10 @@ No Activity tracked this Week
 ![GBernard's github stats](https://github-readme-stats.vercel.app/api?username=GBernard314&show_icons=true&count_private=true)[![GBernard Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GBernard314)](https://github.com/Azarogue/github-readme-stats)
 
 ---
+## Past projects
+🚧 WIP 🚧
+
+---
 
 ## My human skills
 

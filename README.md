@@ -33,7 +33,7 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
   <img alt="Java" src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white"/> 
 </p>
 
-![GBernard's github stats](https://github-readme-stats.vercel.app/api?username=GBernard314&show_icons=true&count_private=true)[![GBernard Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GBernard314)](https://github.com/GBernard314/github-readme-stats)
+![GBernard's github stats](https://github-readme-stats.vercel.app/api?username=GBernard314&show_icons=true&count_private=true)[![GBernard Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GBernard314)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## Past projects

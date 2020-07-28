@@ -17,6 +17,11 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
   <summary>Because we all love stats ...</summary><br/>
 
 <!--START_SECTION:waka-->
+```text
+Week: 20 July, 2020 - 27 July, 2020
+
+Python   0 secs          █████████████████████████   100.00 %
+```
 <!--END_SECTION:waka-->
 
 </details>

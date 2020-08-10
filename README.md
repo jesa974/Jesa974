@@ -18,7 +18,7 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 August, 2020 - 08 August, 2020
+Week: 02 August, 2020 - 09 August, 2020
 
 Python   0 secs          █████████████████████████   100.00 %
 ```

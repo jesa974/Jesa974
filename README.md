@@ -18,10 +18,13 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 September, 2020 - 15 September, 2020
+Week: 09 September, 2020 - 16 September, 2020
 
-Python   56 mins         ███████████████████████▒░   93.54 % 
-XML      3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Python   1 hr 59 mins    ████████████████████▓░░░░   82.51 % 
+XML      10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+CSV      9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+C        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+HTML     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 <!--END_SECTION:waka-->
 

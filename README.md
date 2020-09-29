@@ -18,7 +18,7 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 September, 2020 - 27 September, 2020
+Week: 21 September, 2020 - 28 September, 2020
 
 Go       2 hrs 33 mins   ███████████▓░░░░░░░░░░░░░   47.03 % 
 Python   1 hr 59 mins    █████████░░░░░░░░░░░░░░░░   36.50 % 

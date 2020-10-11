@@ -18,13 +18,13 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 October, 2020 - 09 October, 2020
+Week: 03 October, 2020 - 10 October, 2020
 
-Other   14 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.34 % 
-INI     13 mins         █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-Go      12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.59 % 
-CSV     7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Text    6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Other    16 mins         ███████▓░░░░░░░░░░░░░░░░░   30.98 % 
+INI      13 mins         ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+Text     6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Bash     6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Python   6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
 ```
 <!--END_SECTION:waka-->
 

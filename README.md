@@ -18,7 +18,7 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 October, 2020 - 14 October, 2020
+Week: 08 October, 2020 - 15 October, 2020
 
 Other    16 mins         ███████▓░░░░░░░░░░░░░░░░░   30.98 % 
 INI      13 mins         ██████░░░░░░░░░░░░░░░░░░░   24.48 % 

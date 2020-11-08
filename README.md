@@ -18,7 +18,13 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 31 October, 2020 - 07 November, 2020
+
+Python       5 hrs 32 mins   ██████████████████░░░░░░░   71.45 % 
+Haskell      39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+JavaScript   28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+TypeScript   18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+HTML         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 ```
 <!--END_SECTION:waka-->
 

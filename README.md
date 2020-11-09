@@ -13,9 +13,6 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
 
 ## This week activity
 
-<details>
-  <summary>Because we all love stats ...</summary><br/>
-
 <!--START_SECTION:waka-->
 ```text
 Week: 01 November, 2020 - 08 November, 2020
@@ -27,8 +24,6 @@ TypeScript   18 mins         █░░░░░░░░░░░░░░░░
 HTML         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 ```
 <!--END_SECTION:waka-->
-
-</details>
 
 ## My code skills 
 

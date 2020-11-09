@@ -15,7 +15,7 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
 <details>
 <summary>Wakatime Stats</summary>
 
-[![Guillaume's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Azarogue&hide_border=true&title_color=E88C1C)](https://github.com/anuraghazra/github-readme-stats)
+[![Guillaume's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Azarogue&hide_border=true&title_color=E88C1C&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
@@ -43,18 +43,18 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
   
 </p>
 
-[![GBernard Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GBernard314&hide_border=true&langs_count=10&layout=compact&card_width=700&title_color=E88C1C)](https://github.com/anuraghazra/github-readme-stats)
+[![GBernard Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GBernard314&hide_border=false&langs_count=10&layout=compact&card_width=854&title_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Projects
 
 <p>
 
-![GBernard's github stats](https://github-readme-stats.vercel.app/api?username=GBernard314&include_all_commits=true&custom_title=My%20Github%20stats&hide_border=true&show_icons=true&count_private=true&line_height=33&title_color=E88C1C&icon_color=E88C1C) 
+![GBernard's github stats](https://github-readme-stats.vercel.app/api?username=GBernard314&include_all_commits=true&custom_title=My%20Github%20stats&hide_border=true&show_icons=true&count_private=true&line_height=33&title_color=000000&icon_color=E88C1C) 
 </p>
 
-[<img alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" style="width: 1rem; height: 1rem;"/>](https://github.com/GBernard314/cronogram) ```cronogram``` the *Telegramic* cron job notifier
- [<img alt="Telegram" src="https://image.flaticon.com/icons/png/512/25/25231.png" style="width: 1rem; height: 1rem;"/>](https://github.com/GBernard314/decibel_dB) ```decibel-dB``` the lightweight DBMS
+[<img alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" width="20"/>](https://github.com/GBernard314/cronogram) ```cronogram``` the *Telegramic* cron job notifier
+ [<img alt="Telegram" src="https://image.flaticon.com/icons/png/512/25/25231.png" width="20" />](https://github.com/GBernard314/decibel_dB) ```decibel-dB``` the lightweight DBMS
 
 
 ---

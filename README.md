@@ -1,6 +1,6 @@
-[<img src="https://raw.githubusercontent.com/GBernard314/GBernard314/master/banner.jpg"/>]()
+[<img src="https://raw.githubusercontent.com/GBernard314/GBernard314/master/img/banner.jpg"/>]()
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guillaume-bernard-768547155/) [<img src="https://img.shields.io/badge/whatsapp-25D366.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" />](https://wa.me/+33645496185?text=I'm%20open%20for%20internship)  [<img src="https://img.shields.io/badge/gmail-d14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=guillaume.bernard31415@gmail.com&su=To%20know%20you%20better&body=Hello%20There)  [![Visits Badge](https://badges.pufler.dev/visits/GBernard314/GBernard314)](https://badges.pufler.dev?style=flat-square)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guillaume-bernard-768547155/) [<img src="https://img.shields.io/badge/whatsapp-25D366.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" />](https://wa.me/+33645496185?text=I'm%20open%20for%20internship)  [<img src="https://img.shields.io/badge/gmail-d14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=guillaume.bernard31415@gmail.com&su=To%20know%20you%20better&body=Hello%20There)  [![Visits Badge](https://badges.pufler.dev/visits/GBernard314/GBernard314)](https://badges.pufler.dev?style=for-the-badge)
 
 ### Hello there 👋
 
@@ -8,22 +8,17 @@ My name is Guillaume **BERNARD**
 I am a **Dynamic** student finalizing an Engineering degrees in computer sciences, looking for a **3 or 4 months internship** in a **Data science** related field from **June 2021 ⮕ October 2021**.
 
 
-- 🔭 I’m currently working on school project
-- 🌱 I’m currently learning data science
+- 📊 I’m currently working on my data visualization skills
 
 ## This week activity
 
-<!--START_SECTION:waka-->
-```text
-Week: 01 November, 2020 - 08 November, 2020
+<details>
+<summary>Wakatime Stats</summary>
 
-Python       5 hrs 32 mins   ██████████████████░░░░░░░   71.45 % 
-Haskell      39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-JavaScript   28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-TypeScript   18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-HTML         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-```
-<!--END_SECTION:waka-->
+[![Guillaume's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Azarogue&hide_border=true&title_color=E88C1C)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
 
 ## My code skills 
 
@@ -35,13 +30,32 @@ HTML         15 mins         █░░░░░░░░░░░░░░░░
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" /> 
   <img alt="Java" src="https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=black"/> 
   <img alt="Java" src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white"/> 
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> 
+  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/> 
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> 
+  <img alt="MSExcel" src="https://img.shields.io/badge/-MS Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/> 
+  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/> 
+  <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU-bash&logoColor=white"/> 
+  <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-336791?style=flat-square&logo=postgresql&logoColor=white"/> 
+  <img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/> 
+
+  
 </p>
 
-![GBernard's github stats](https://github-readme-stats.vercel.app/api?username=GBernard314&show_icons=true&count_private=true)[![GBernard Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GBernard314)](https://github.com/anuraghazra/github-readme-stats)
+[![GBernard Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GBernard314&hide_border=true&langs_count=10&layout=compact&card_width=700&title_color=E88C1C)](https://github.com/anuraghazra/github-readme-stats)
 
----
-## Past projects
-🚧 WIP 🚧
+
+## Projects
+
+<p>
+
+![GBernard's github stats](https://github-readme-stats.vercel.app/api?username=GBernard314&include_all_commits=true&custom_title=My%20Github%20stats&hide_border=true&show_icons=true&count_private=true&line_height=33&title_color=E88C1C&icon_color=E88C1C) 
+</p>
+
+[<img alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" style="width: 1rem; height: 1rem;"/>](https://github.com/GBernard314/cronogram) ```cronogram``` the *Telegramic* cron job notifier
+ [<img alt="Telegram" src="https://image.flaticon.com/icons/png/512/25/25231.png" style="width: 1rem; height: 1rem;"/>](https://github.com/GBernard314/decibel_dB) ```decibel-dB``` the lightweight DBMS
+
 
 ---
 
@@ -63,19 +77,11 @@ HTML         15 mins         █░░░░░░░░░░░░░░░░
 
 - **Team sport** enthusiast : winning as a team is much more **gratifying** than winning alone
 
-  
 
----
+<!-- https://simplemaps.com/custom/world/832elAdI -->
 
-### Travel and Culture
-
-**Immersing** yourself in an other culture is **teaching** you in every way
-
-Traveled through (and looking forward to lengthen the list) :
-
-| Africa | America | Asia                                                         | Europe                                                       | Oceania                                                      |
-| :----- | :------ | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-|        |         | <img alt="India" src="https://hatscripts.github.io/circle-flags/flags/in.svg" width="24"> India | <img alt="Italy" src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="24"> Italy<br /><img alt="Portugal" src="https://hatscripts.github.io/circle-flags/flags/pt.svg" width="24"> Portugal<br /><img alt="GreatBritain" src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="24"> Great Britain<br /><img alt="Spain" src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="24"> Spain<br /><img alt="Greece" src="https://hatscripts.github.io/circle-flags/flags/gr.svg" width="24"> Greece<br /><img alt="Germany" src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="24"> Germany<br /><img alt="Denmark" src="https://hatscripts.github.io/circle-flags/flags/dk.svg" width="24"> Denmark<br /><img alt="Sweden" src="https://hatscripts.github.io/circle-flags/flags/se.svg" width="24"> Sweden<br /><img alt="Croatia" src="https://hatscripts.github.io/circle-flags/flags/hr.svg" width="24"> Croatia<br /> | <img alt="Australia" src="https://hatscripts.github.io/circle-flags/flags/au.svg" width="24"> Australia |
+## Currently visited countries
+<img alt="French" src="img/world.svg" width="100%">
 
 
 

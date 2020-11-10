@@ -53,7 +53,7 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
 ![GBernard's github stats](https://github-readme-stats.vercel.app/api?username=GBernard314&include_all_commits=true&custom_title=My%20Github%20stats&hide_border=true&show_icons=true&count_private=true&line_height=33&title_color=000000&icon_color=E88C1C) 
 </p>
 
-[<img alt="theCAP" src="https://github.com/TibRib/the-cap/blob/main/img/THE_CAP_icon_round.png" width="20" height="20" />](https://github.com/TibRib/the-cap) ```the-CAP``` the **Comment-Analyze-Predict** sport Bot
+[<img alt="theCAP" src="https://github.com/TibRib/the-cap/blob/main/img/THE_CAP_icon_round_flat.png" width="20" height="20" />](https://github.com/TibRib/the-cap) ```the-CAP``` the **Comment-Analyze-Predict** sport Bot
 
 
 [<img alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" width="20" height="20" />](https://github.com/GBernard314/cronogram) ```cronogram``` the *Telegramic* **cron job notifier**

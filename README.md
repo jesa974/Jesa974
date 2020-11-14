@@ -83,9 +83,6 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
 
 - **Team sport** enthusiast : winning as a team is much more **gratifying** than winning alone
 
-
-<!-- https://simplemaps.com/custom/world/832elAdI -->
-
 ## Currently visited countries
 <img alt="French" src="img/world.svg" width="100%">
 

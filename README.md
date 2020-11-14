@@ -25,20 +25,19 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /> 
-  <img alt="Atom" src="https://img.shields.io/badge/-Atom-66595c?style=flat-square&logo=Atom&logoColor=white" /> 
+  <img alt="Atom" src="https://img.shields.io/badge/-Atom-66595c?style=flat-square&logo=Atom&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-66595c?style=flat-square&logo=Php&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=C++&logoColor=black" /> 
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" /> 
-  <img alt="Java" src="https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=black"/> 
-  <img alt="Java" src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white"/> 
-  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-007396?style=flat-square&logo=Javascript&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=black"/>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-007ACC?style=flat-square&logo=docker&logoColor=white"/> 
+  <img alt="Git" src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white"/> 
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>  
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> 
-  <img alt="MSExcel" src="https://img.shields.io/badge/-MS Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/> 
-  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/> 
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU-bash&logoColor=white"/> 
   <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-336791?style=flat-square&logo=postgresql&logoColor=white"/> 
-  <img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/> 
 
   
 </p>
@@ -70,8 +69,8 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
 	<img alt="100%" src="https://progress-bar.dev/100"> 
     - Native language (there is always room for improvement) <br>
   	<img alt="English" src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="32">
-	<img alt="60%" src="https://progress-bar.dev/60">
-    - Profficiency level ( Cambridge Assessment )<br>
+	<img alt="60%" src="https://progress-bar.dev/70">
+    - Profficiency level ( First Certificate in English )<br>
   	<img alt="Spanish" src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="32">
 	<img alt="40%" src="https://progress-bar.dev/40"> 
     - Light conversation B1 level<br>

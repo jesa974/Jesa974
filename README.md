@@ -56,7 +56,7 @@ I am a **Motivated** and **Dynamic** student finalizing an Engineering degrees i
 ![Jesa's github stats](https://github-readme-stats.vercel.app/api?username=jesa974&include_all_commits=true&custom_title=My%20Github%20stats&hide_border=true&show_icons=true&count_private=true&line_height=33&title_color=000000&icon_color=E88C1C) 
 </p>
 
-[<img alt="FamilyTree" src="https://i.pinimg.com/originals/03/57/d8/0357d82f9644c5ad78ce47f9d7a19317.png" width="20" height="20" />](https://github.com/jesa974/FamilyTree) ```FamilyTree``` The 
+[<img alt="FamilyTree" src="https://i.pinimg.com/originals/03/57/d8/0357d82f9644c5ad78ce47f9d7a19317.png" width="20" height="20" />](https://github.com/jesa974/FamilyTree) ```FamilyTree``` The **3D Rendering of a Family Tree** with the *Completion of Links* between individuals thanks to *AI*
 
 [<img alt="Chaine" src="https://buyandrop.com/14965/chaine-sous-blister.jpg" width="20" height="20" />](https://github.com/jesa974/Chaine) ```Chaine``` The *logical evolution of the string.h library* with the appearance of **Substring Management**
 

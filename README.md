@@ -13,7 +13,7 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
 <details>
 <summary>Wakatime Stats</summary>
 
-[![Guillaume's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Azarogue&hide_border=true&title_color=E88C1C&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Matthieu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jesa&hide_border=true&title_color=E88C1C&hide_title=true)](https://github.com/jesa974/github-readme-stats)
 
 </details>
 
@@ -45,7 +45,7 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
   
 </p>
 
-[![GBernard Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GBernard314&hide_border=false&langs_count=10&layout=compact&card_width=854&title_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Jesa Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesa974&hide_border=false&langs_count=10&layout=compact&card_width=854&title_color=000000)](https://github.com/jesa974/github-readme-stats)
 
 
 ## Projects
@@ -55,12 +55,19 @@ I am a **Dynamic** student finalizing an Engineering degrees in computer science
 ![Jesa's github stats](https://github-readme-stats.vercel.app/api?username=jesa974&include_all_commits=true&custom_title=My%20Github%20stats&hide_border=true&show_icons=true&count_private=true&line_height=33&title_color=000000&icon_color=E88C1C) 
 </p>
 
-[<img alt="Pisenball" src="https://i.pinimg.com/originals/92/95/83/9295837bc9406d93acd07f72a1c3dd42.png" width="20" height="20" />](https://github.com/jesa974/Pisenball) ```Pisenball``` the *Very Realistic* **Pinball Game** made by ISEN students
+[<img alt="FamilyTree" src="https://i.pinimg.com/originals/03/57/d8/0357d82f9644c5ad78ce47f9d7a19317.png" width="20" height="20" />](https://github.com/jesa974/FamilyTree) ```FamilyTree``` The 
 
+[<img alt="Chaine" src="https://buyandrop.com/14965/chaine-sous-blister.jpg" width="20" height="20" />](https://github.com/jesa974/Chaine) ```Chaine``` The *logical evolution of the string.h library* with the appearance of **Substring Management**
 
-[<img alt="Cells" src="https://thumbs.dreamstime.com/z/ic%C3%B4ne-de-cellules-concept-%C3%A0-la-mode-logo-sur-le-fond-blanc-s-133525195.jpg" width="20" height="20" />](https://github.com/jesa974/Cells) ```Cells``` The *simulation* of the **evolution of cell development**
+[<img alt="myBDD" src="https://www.logolynx.com/images/logolynx/c0/c0f84d9509d6690a70ce4c596f740c62.png" width="20" height="20" />](https://github.com/jesa974/myBDD) ```myBDD``` The *Lightweight* **DataBase Management System**
 
-[<img alt="myBDD" src="https://png.pngtree.com/element_our/png/20181227/database-glyph-black-icon-png_291831.jpg" width="20" height="20" />](https://github.com/jesa974/myBDD) ```myBDD``` the *lightweight* **DataBase Management System**
+[<img alt="Memory" src="https://image.freepik.com/vecteurs-libre/conception-vecteur-logo-ampoule-cerveau_16734-24.jpg" width="20" height="20" />](https://github.com/jesa974/Memory) ```Memory``` The **Analysis of the tremor** related to the movement of the mouse via the *Memory Game*
+
+[<img alt="Pisenball" src="https://i.pinimg.com/originals/92/95/83/9295837bc9406d93acd07f72a1c3dd42.png" width="20" height="20" />](https://github.com/jesa974/Pisenball) ```Pisenball``` The *Very Realistic* **Pinball Game** made by ISEN students
+
+[<img alt="Cells" src="https://thumbs.dreamstime.com/b/signe-et-symbole-de-vecteur-d-ic%C3%B4ne-cellules-eco-isolement-sur-le-fond-blanc-concept-logo-134568265.jpg" width="20" height="20" />](https://github.com/jesa974/Cells) ```Cells``` The *Simulation* of the **Evolution of Cell Development**
+
+[<img alt="Graph" src="https://img2.freepng.fr/20180430/oke/kisspng-degree-of-a-polynomial-graph-of-a-function-quintic-function-formula-5ae79f3c2685f9.9732959815251290201578.jpg" width="20" height="20" />](https://github.com/jesa974/Graph) ```Graph``` *Plotting* in the form of a curve or points of **Polynomial Functions of maximum degree 3**
 
 
 ---

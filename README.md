@@ -82,7 +82,7 @@ I am a **Motivated** and **Dynamic** student finalizing an Engineering degrees i
   	<img alt="English" src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="32">
 	<img alt="60%" src="https://progress-bar.dev/70">
     - Profficiency level ( First Certificate in English )<br>
-  	<img alt="Spanish" src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="32">
+  	<img alt="Spanish" src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="32">
 	<img alt="40%" src="https://progress-bar.dev/40"> 
     - Light conversation B1 level<br>
 </p> 

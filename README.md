@@ -35,7 +35,7 @@ I am a **Motivated** and **Dynamic** student finalizing an Engineering degrees i
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=black"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-007ACC?style=flat-square&logo=docker&logoColor=white"/> 
   <img alt="Git" src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-A8B9CC?style=flat-square&logo=html&logoColor=black" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-A8B9CC?style=flat-square&logo=html5&logoColor=black" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-4EAA25?style=flat-square&logo=Bootstrap&logoColor=white"/>
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>  
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>

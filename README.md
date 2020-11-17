@@ -78,13 +78,13 @@ I am a **Motivated** and **Dynamic** student finalizing an Engineering degrees i
 <p>
 	<img alt="French" src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="32">
 	<img alt="100%" src="https://progress-bar.dev/100"> 
-    - Native language (there is always room for improvement) <br>
+    - Native language<br>
   	<img alt="English" src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="32">
 	<img alt="60%" src="https://progress-bar.dev/70">
     - Profficiency level ( First Certificate in English )<br>
   	<img alt="Spanish" src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="32">
 	<img alt="40%" src="https://progress-bar.dev/40"> 
-    - Light conversation B1 level<br>
+    - Light conversation (B1 level)<br>
 </p> 
 
 - **Sports** lover 🏸🥋🏊‍♂️🏇⛷️ and **Bodybuilding** adept 🏋️

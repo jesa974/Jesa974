@@ -39,7 +39,7 @@ I am a **Motivated** and **Dynamic** student finalizing an Engineering degrees i
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-4EAA25?style=flat-square&logo=Bootstrap&logoColor=white"/>
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>  
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-f05032?style=flat-square&logo=Css&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-f05032?style=flat-square&logo=CSS3&logoColor=white"/>
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU-bash&logoColor=white"/> 
   <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-336791?style=flat-square&logo=postgresql&logoColor=white"/> 
 

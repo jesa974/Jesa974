@@ -32,7 +32,7 @@ I am a **Motivated** and **Dynamic** student finalizing an *Engineering Degree* 
 	<img alt="WordPress" src="https://img.shields.io/badge/-WordPress-3776AB?style=flat-square&logo=wordpress&logoColor=white" />
 	<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-4EAA25?style=flat-square&logo=Bootstrap&logoColor=white"/>
   
-  * **Langages**
+  * **Languages**
 	<img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black" />
 	<img alt="C++" src="https://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=C++&logoColor=black" />
 	<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />

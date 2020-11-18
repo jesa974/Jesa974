@@ -58,6 +58,9 @@ I am a **Motivated** and **Dynamic** student finalizing an *Engineering Degree* 
   * **Versionnage**
   	<img alt="Git" src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white"/>
 	<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
+	<img alt="GitKraken" src="https://img.shields.io/badge/-GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white" />
+	<img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white" />
+	<img alt="SVN" src="https://img.shields.io/badge/-Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=white" />
   
  
 [![Jesa Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesa974&hide_border=false&langs_count=10&layout=compact&card_width=854&title_color=000000)](https://github.com/jesa974/github-readme-stats)

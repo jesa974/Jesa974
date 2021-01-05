@@ -75,6 +75,8 @@ I am a **Motivated** and **Dynamic** student finalizing an *Engineering Degree* 
 
 [<img alt="FamilyTree" src="https://i.pinimg.com/originals/03/57/d8/0357d82f9644c5ad78ce47f9d7a19317.png" width="20" height="20" />](https://github.com/jesa974/FamilyTree) ```FamilyTree``` The **3D Rendering of a Family Tree** with the *Completion of Links* between individuals thanks to *AI*
 
+[<img alt="SpotAPI" src="https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM" width="20" height="20" />](https://github.com/jesa974/SpotAPI) ```SpotAPI``` The **Usage of Spotify API** for displaying informations like *User Informations, Playlists, Albums, Searching for User*
+
 [<img alt="Chaine" src="https://buyandrop.com/14965/chaine-sous-blister.jpg" width="20" height="20" />](https://github.com/jesa974/Chaine) ```Chaine``` The *logical evolution of the string.h library* with the appearance of **Substring Management**
 
 [<img alt="myBDD" src="https://www.logolynx.com/images/logolynx/c0/c0f84d9509d6690a70ce4c596f740c62.png" width="20" height="20" />](https://github.com/jesa974/myBDD) ```myBDD``` The *Lightweight* **DataBase Management System**

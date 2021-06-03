@@ -14,7 +14,7 @@ I am a **Motivated** and **Dynamic** student finalizing an *Engineering Degree* 
 <details>
 <summary>Wakatime Stats</summary>
 
-[![Matthieu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jesa974&hide_border=true&title_color=E88C1C&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Matthieu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jesa&hide_border=true&title_color=E88C1C&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 

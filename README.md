@@ -23,47 +23,47 @@ I am a **Motivated** and **Dynamic** student finalizing an *Engineering Degree* 
 
 
   * **Web**
-	<img alt="HTML" src="https://img.shields.io/badge/-HTML-fcc624?style=flat-square&logo=html5&logoColor=black" />
-	<img alt="CSS" src="https://img.shields.io/badge/-CSS-f05032?style=flat-square&logo=CSS3&logoColor=white"/>
-	<img alt="PHP" src="https://img.shields.io/badge/-PHP-007ACC?style=flat-square&logo=Php&logoColor=white" />
-	<img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-f05032?style=flat-square&logo=Javascript&logoColor=white" />
-	<img alt="Angular" src="https://img.shields.io/badge/-Angular-f05032?style=flat-square&logo=Angular&logoColor=white" />
-	<img alt="MySql" src="https://img.shields.io/badge/-MySql-007ACC?style=flat-square&logo=MySql&logoColor=white" />
-	<img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-007ACC?style=flat-square&logo=postgresql&logoColor=white"/>
-	<img alt="WordPress" src="https://img.shields.io/badge/-WordPress-007ACC?style=flat-square&logo=wordpress&logoColor=white" />
-	<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-4EAA25?style=flat-square&logo=Bootstrap&logoColor=white"/>
+	<img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+	<img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+	<img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=Php&logoColor=white" />
+	<img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black" />
+	<img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white" />
+	<img alt="MySql" src="https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=MySql&logoColor=white" />
+	<img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+	<img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+	<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
   
   * **Languages**
 	<img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black" />
-	<img alt="C++" src="https://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=c-plus-plus&logoColor=black" />
-	<img alt="Java" src="https://img.shields.io/badge/-Java-007ACC?style=flat-square&logo=Java&logoColor=white" />
-	<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-4EAA25?style=flat-square&logo=Kotlin&logoColor=white" />
-	<img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=white" />
-	<img alt="Rust" src="https://img.shields.io/badge/-Rust-f05032?style=flat-square&logo=Rust&logoColor=white" />
+	<img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c-plus-plus&logoColor=black" />
+	<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
+	<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />
+	<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+	<img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white" />
   
   * **OS**
 	<img alt="Linux" src="https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=black"/>
-	<img alt="Kali" src="https://img.shields.io/badge/-Kali-007ACC?style=flat-square&logo=Kali-Linux&logoColor=white"/>
+	<img alt="Kali" src="https://img.shields.io/badge/-Kali-557C94?style=flat-square&logo=Kali-Linux&logoColor=white"/>
 	<img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
-	<img alt="Android" src="https://img.shields.io/badge/-Android-4EAA25?style=flat-square&logo=Android&logoColor=white"/>
+	<img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   
   * **Cloud**
-	<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-fcc624?style=flat-square&logo=Kubernetes&logoColor=black"/>
-	<img alt="Docker" src="https://img.shields.io/badge/-Docker-007ACC?style=flat-square&logo=docker&logoColor=white"/>
+	<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+	<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   
   * **IDE**
-	<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-181717?style=flat-square&logo=IntelliJ-IDEA&logoColor=white" />
+	<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white" />
 	<img alt="Atom" src="https://img.shields.io/badge/-Atom-66595c?style=flat-square&logo=Atom&logoColor=white" />
 	<img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-	<img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-4EAA25?style=flat-square&logo=Android-Studio&logoColor=white"/>
-	<img alt="NetBeans" src="https://img.shields.io/badge/-NetBeans-A8B9CC?style=flat-square&logo=Apache-NetBeans-IDE&logoColor=black"/>
-	<img alt="Vim" src="https://img.shields.io/badge/-Vim-4EAA25?style=flat-square&logo=Vim&logoColor=white"/>
+	<img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/>
+	<img alt="NetBeans" src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=Apache-NetBeans-IDE&logoColor=white"/>
+	<img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>
   
   * **Versionnage**
   	<img alt="Git" src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white"/>
 	<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
 	<img alt="GitKraken" src="https://img.shields.io/badge/-GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white" />
-	<img alt="GitLab" src="https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=GitLab&logoColor=white" />
+	<img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white" />
 	<img alt="SVN" src="https://img.shields.io/badge/-Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=white" />
   
  

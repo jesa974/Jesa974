@@ -35,11 +35,12 @@ I am a **Motivated** and **Dynamic** student finalizing an *Engineering Degree* 
   
   * **Languages**
 	<img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black" />
-	<img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c-plus-plus&logoColor=black" />
+	<img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=black" />
 	<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
 	<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />
 	<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 	<img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white" />
+	
   
   * **OS**
 	<img alt="Linux" src="https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=black"/>

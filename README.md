@@ -60,7 +60,7 @@ I am a **Motivated** and **Dynamic** student finalizing an *Engineering Degree* 
 	<img alt="NetBeans" src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=Apache-NetBeans-IDE&logoColor=white"/>
 	<img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>
   
-  * **Versionnage**
+  * **Versioning**
   	<img alt="Git" src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white"/>
 	<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
 	<img alt="GitKraken" src="https://img.shields.io/badge/-GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white" />

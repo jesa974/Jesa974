@@ -78,6 +78,8 @@ I am a **Motivated** and **Dynamic** student finalizing an *Engineering Degree* 
 ![Jesa's github stats](https://github-readme-stats.vercel.app/api?username=jesa974&include_all_commits=true&custom_title=My%20Github%20stats&hide_border=true&show_icons=true&count_private=true&line_height=33&title_color=000000&icon_color=E88C1C) 
 </p>
 
+[<img alt="Working_Hours" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Clock_12-05.svg/2048px-Clock_12-05.svg.png" width="20" height="20" />](https://github.com/jesa974/Working_Hours) ```Working_Hours``` The **Automatic time recorder** for *Ubuntu*
+
 [<img alt="QRCode-Verifier" src="https://mk0hilesamiest1frhhk.kinstacdn.com/wp-content/uploads/2021/05/SFR_2D-Doc.png" width="20" height="20" />](https://github.com/jesa974/QRCode-Verifier) ```QRCode-Verifier``` The **Verification of the integrity** of a *2D Doc*
 
 [<img alt="FamilyTree" src="https://i.pinimg.com/originals/03/57/d8/0357d82f9644c5ad78ce47f9d7a19317.png" width="20" height="20" />](https://github.com/jesa974/FamilyTree) ```FamilyTree``` The **3D Rendering of a Family Tree** with the *Completion of Links* between individuals thanks to *AI*

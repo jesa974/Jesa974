@@ -6,7 +6,7 @@
 
 My name is Matthieu **PREZUT**
 
-I am a **Motivated** and **Dynamic** student finalizing an *Engineering Degree* in **Computer Sciences**, looking for a **1 year internship** in a **Cybersecurity** related field from **October 2021 ⮕ September 2022**.
+I am a **Motivated** and **Dynamic** student finalizing an *Engineering Degree* in **Computer Sciences**, looking for a **1 or 2 years international volunteering in business** in a **Cybersecurity** related field from **October 2022 ⮕ September 2022/23**.
 
 
 ## This week activity

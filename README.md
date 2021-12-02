@@ -5,6 +5,8 @@
 [<img src="https://img.shields.io/badge/gmail-d14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=matthieu.prezut@gmail.com&su=To%20know%20you%20better&body=Hello%20There)
 [<img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />](https://instagram.com/matthieu_prezut/)
 [![Visits Badge](https://badges.pufler.dev/visits/jesa974/Jesa974)](https://badges.pufler.dev?style=for-the-badge)
+[![Years Badge](https://badges.pufler.dev/years/jesa974)](https://badges.pufler.dev)
+
 
 ### Hello there 👋
 

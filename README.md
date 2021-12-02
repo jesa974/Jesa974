@@ -1,6 +1,10 @@
 [<img src="https://raw.githubusercontent.com/jesa974/Jesa974/master/img/banner.png"/>]()
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matthieu-prezut-88ab9b171/) [<img src="https://img.shields.io/badge/whatsapp-25D366.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" />](https://wa.me/+33622176238?text=I'm%20open%20for%20internship)  [<img src="https://img.shields.io/badge/gmail-d14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=matthieu.prezut@gmail.com&su=To%20know%20you%20better&body=Hello%20There)  [![Visits Badge](https://badges.pufler.dev/visits/jesa974/Jesa974)](https://badges.pufler.dev?style=for-the-badge)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matthieu-prezut/)
+[<img src="https://img.shields.io/badge/whatsapp-25D366.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" />](https://wa.me/+33622176238?text=I'm%20open%20for%20internship)
+[<img src="https://img.shields.io/badge/gmail-d14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=matthieu.prezut@gmail.com&su=To%20know%20you%20better&body=Hello%20There)
+[<img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />](https://instagram.com/matthieu_prezut/)
+[![Visits Badge](https://badges.pufler.dev/visits/jesa974/Jesa974)](https://badges.pufler.dev?style=for-the-badge)
 
 ### Hello there 👋
 
@@ -73,10 +77,7 @@ I am a **Motivated** and **Dynamic** student finalizing an *Engineering Degree* 
 
 ## Projects
 
-<p>
-
-![Jesa's github stats](https://github-readme-stats.vercel.app/api?username=jesa974&include_all_commits=true&custom_title=My%20Github%20stats&hide_border=true&show_icons=true&count_private=true&line_height=33&title_color=000000&icon_color=E88C1C) 
-</p>
+![Jesa's github stats](https://github-readme-stats.vercel.app/api?username=jesa974&include_all_commits=true&custom_title=My%20Github%20stats&hide_border=true&show_icons=true&count_private=true&line_height=33&title_color=000000&icon_color=E88C1C)
 
 [<img alt="Working_Hours" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Clock_12-05.svg/2048px-Clock_12-05.svg.png" width="20" height="20" />](https://github.com/jesa974/Working_Hours) ```Working_Hours``` The **Automatic time recorder** for *Ubuntu*
 
@@ -126,5 +127,11 @@ I am a **Motivated** and **Dynamic** student finalizing an *Engineering Degree* 
 ## Currently visited countries
 <img alt="French" src="img/world.svg" width="100%">
 
+---
+
+## GitHub Analytics
+![Jesa's github streak](https://github-readme-streak-stats.herokuapp.com/?user=jesa974&hide_border=true)
+
+![Jesa's github trophies](https://github-profile-trophy.vercel.app/?username=jesa974&margin-w=10&no-frame=true&row=1)
 
 

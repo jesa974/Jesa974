@@ -12,7 +12,7 @@
 
 My name is Matthieu **PREZUT**
 
-I am a **Motivated** and **Dynamic** student finalizing an *Engineering Degree* in **Computer Sciences**, looking for a **1 or 2 years international volunteering in business** in a **Cybersecurity** related field from **October 2022 ⮕ September 2022/23**.
+I am a **Motivated** and **Dynamic** student in *Mobile Pentest* sandwich courses at [**Underwriters Laboratories**](https://www.ul.com/)  finalizing an *Engineering Degree* in **Cybersecurity**, looking for a **1 or 2 years international volunteering in business** in a **Cybersecurity** related field from **October 2022 ⮕ September 2022/23**.
 
 
 ## This week activity
@@ -53,8 +53,10 @@ I am a **Motivated** and **Dynamic** student finalizing an *Engineering Degree* 
 	<img alt="Kali" src="https://img.shields.io/badge/-Kali-557C94?style=flat-square&logo=Kali-Linux&logoColor=white"/>
 	<img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
 	<img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+	<img alt="RaspBerry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white"/>
   
   * **Cloud**
+	<img alt="AWS" src="https://img.shields.io/badge/-Amazon_AWS-FCA121?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 	<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
 	<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   
